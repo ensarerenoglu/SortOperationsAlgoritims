@@ -12,8 +12,10 @@
         - 0 5'ten büyük mü? büyük -9 7'den büyük mü? büyük -9 8'den büyük mü? büyük -sağına yaz
         - 4 5'ten büyük mü? küçük -4 1'den büyük mü? büyük -4 3'ten büyük mü? büyük -sağında yaz
         - 2 5'ten büyük mü? küçük -2 1'ten büyük mü? büyük -2 3'ten büyük mü? küçük -soluna yaz
-    * 
+    ```
                     [5]
             [1]            [7]
         [0]     [3]     [6]    [8]
             [2]     [4]           [9]
+    ```
+
