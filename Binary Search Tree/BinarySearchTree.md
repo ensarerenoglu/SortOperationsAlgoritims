@@ -1,6 +1,6 @@
 # Binary Search Tree [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
 
--Dizinin Binary-Search-Tree aşamaları
+- Dizinin Binary-Search-Tree aşamaları
     * [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
     * Root 5 olması durumunda Aşamalar
         - 7 5'ten büyük mü? büyük -sağında yaz
